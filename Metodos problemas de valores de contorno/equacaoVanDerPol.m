@@ -1,4 +1,5 @@
 clc; clear; close all;
+# SOLUCAO EM PROGRESSO - CODIGO COM ERRO OU IINCERTEZA DA SOLUCAO
 % Resolução da Equação de Van der Pol com o Método de Newton
 
 % O problema é descrito pela equação diferencial não linear:
