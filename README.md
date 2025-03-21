@@ -5,15 +5,15 @@ Métodos numéricos para solução de EDO, método de diferenças finitas, opera
 
 📖 Material de referência:
 
-- LAMBERT, J.D. Computational Methods in Ordinary Differential Equation. John Wiley & Sons, 1973.
-- SMITH, G.D. Oxford Applied Mathematics and Computing Science Series-Numerical Solution of Partial Differential Equation: Finite Difference Methods. Oxford, Clarendon, 3rd ed., 1985.
-- BURDEN, R.L.; Faires, J.D. Análise Numérica. Thompson, 2003.
+- LAMBERT, J.D. Computational Methods in Ordinary Differential Equation. John Wiley & Sons, 1973.
+- SMITH, G.D. Oxford Applied Mathematics and Computing Science Series-Numerical Solution of Partial Differential Equation: Finite Difference Methods. Oxford, Clarendon, 3rd ed., 1985.
+- BURDEN, R.L.; Faires, J.D. Análise Numérica. Thompson, 2003.
 
 📌 Description:
 Numerical methods for the solution of ODE, finite difference method, finite difference operators in general coordinates; Numerical methods for PDE: Method of characteristics and finite differences for the solution of hyperbolic equations (advection equation and wave equation), consistency, stability, CFL condition, Lax theorem, upwinding; Finite difference methods for the solution of parabolic equations (heat equation), consistency, stability, Neumann boundary condition. Finite difference methods for elliptic equation (Poisson equation), consistency, convergence; Convection-diffusion equation; Introduction to other numerical techniques.
 
 📖 Reference Material:
 
-- LAMBERT, J.D. Computational Methods in Ordinary Differential Equation. John Wiley & Sons, 1973.
-- SMITH, G.D. Oxford Applied Mathematics and Computing Science Series-Numerical Solution of Partial Differential Equation: Finite Difference Methods. Oxford, Clarendon, 3rd ed., 1985.
-- BURDEN, R.L.; Faires, J.D. Análise Numérica. Thompson, 2003.
+- LAMBERT, J.D. Computational Methods in Ordinary Differential Equation. John Wiley & Sons, 1973.
+- SMITH, G.D. Oxford Applied Mathematics and Computing Science Series-Numerical Solution of Partial Differential Equation: Finite Difference Methods. Oxford, Clarendon, 3rd ed., 1985.
+- BURDEN, R.L.; Faires, J.D. Análise Numérica. Thompson, 2003.
